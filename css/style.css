@@ -1,0 +1,33 @@
+.ptop{
+    padding-top: 30px;;
+}
+
+#inicio{
+    background-color: #8ee696;
+    font: 20px arial, sans-serif;
+    padding-bottom: 1px;
+    
+}
+
+#certificados{
+    background-color: #baf77c;
+    padding-bottom: 5px;
+}
+
+.border-ra{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+
+#contato{
+    background-color: #e8ff65;
+    padding-bottom: 5px;
+}
+
+footer{
+    background-color: #ecedd5;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
